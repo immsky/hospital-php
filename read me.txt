@@ -1,1 +1,10 @@
 https://unsuccessive-jeopar.000webhostapp.com  click this link to open our webpage 
+
+doctors login :
+user id : YDS7L
+PASSWORD: password
+
+
+administrative login:
+userid : admin@mail.com
+password:Password@123
